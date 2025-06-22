@@ -1,0 +1,3 @@
+2025-06-21 23:58:20,583 - INFO - Starting UI automation test suite
+2025-06-21 23:58:39,523 - INFO - HTML report generated: test_reports\test_report_20250621_235753.html
+2025-06-21 23:58:39,523 - INFO - Test execution completed. Report available at: test_reports\test_report_20250621_235753.html
